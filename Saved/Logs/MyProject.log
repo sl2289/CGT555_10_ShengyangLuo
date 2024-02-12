@@ -1347,3 +1347,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.12-21.12.15:832][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto7
 [2024.02.12-21.12.15:832][750]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto7FA8E3F04423196AB20A573AD9F5ECD60.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto7.uasset'
 [2024.02.12-21.12.15:833][750]LogFileHelpers: Auto-saving content packages took 0.095
+[2024.02.12-21.22.24:931][714]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.12-21.22.24:979][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.12-21.22.25:789][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset" SILENT=true
+[2024.02.12-21.22.25:794][789]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig
+[2024.02.12-21.22.25:794][789]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig242E0C2E43EFCC4F6CAA1AB5BC6C5A83.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
+[2024.02.12-21.22.25:832][789]AssetCheck: New page: Asset Save: SKM_Manny_CtrlRig
+[2024.02.12-21.22.25:832][789]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
