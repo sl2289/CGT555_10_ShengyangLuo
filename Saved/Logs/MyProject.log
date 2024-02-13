@@ -1518,3 +1518,303 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.13-01.52.31:746][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2024.02.13-01.52.50:085][800]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
 [2024.02.13-01.52.50:132][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.13-01.54.58:865][305]LogViewport: Scene viewport resized to 625x409, mode Windowed.
+[2024.02.13-01.54.58:904][307]LogViewport: Scene viewport resized to 613x409, mode Windowed.
+[2024.02.13-01.54.58:924][308]LogViewport: Scene viewport resized to 608x409, mode Windowed.
+[2024.02.13-01.54.58:952][310]LogViewport: Scene viewport resized to 601x409, mode Windowed.
+[2024.02.13-01.54.58:972][311]LogViewport: Scene viewport resized to 599x409, mode Windowed.
+[2024.02.13-01.54.58:991][312]LogViewport: Scene viewport resized to 594x409, mode Windowed.
+[2024.02.13-01.54.59:011][313]LogViewport: Scene viewport resized to 591x409, mode Windowed.
+[2024.02.13-01.54.59:033][314]LogViewport: Scene viewport resized to 585x409, mode Windowed.
+[2024.02.13-01.54.59:055][315]LogViewport: Scene viewport resized to 578x409, mode Windowed.
+[2024.02.13-01.54.59:081][317]LogViewport: Scene viewport resized to 565x409, mode Windowed.
+[2024.02.13-01.54.59:099][318]LogViewport: Scene viewport resized to 559x409, mode Windowed.
+[2024.02.13-01.54.59:120][319]LogViewport: Scene viewport resized to 547x409, mode Windowed.
+[2024.02.13-01.54.59:141][320]LogViewport: Scene viewport resized to 531x409, mode Windowed.
+[2024.02.13-01.54.59:160][321]LogViewport: Scene viewport resized to 508x409, mode Windowed.
+[2024.02.13-01.54.59:188][323]LogViewport: Scene viewport resized to 473x409, mode Windowed.
+[2024.02.13-01.54.59:214][325]LogViewport: Scene viewport resized to 451x409, mode Windowed.
+[2024.02.13-01.54.59:241][327]LogViewport: Scene viewport resized to 440x409, mode Windowed.
+[2024.02.13-01.54.59:260][328]LogViewport: Scene viewport resized to 434x409, mode Windowed.
+[2024.02.13-01.54.59:280][329]LogViewport: Scene viewport resized to 432x409, mode Windowed.
+[2024.02.13-01.54.59:308][331]LogViewport: Scene viewport resized to 428x409, mode Windowed.
+[2024.02.13-01.54.59:334][333]LogViewport: Scene viewport resized to 422x409, mode Windowed.
+[2024.02.13-01.54.59:361][335]LogViewport: Scene viewport resized to 411x409, mode Windowed.
+[2024.02.13-01.54.59:380][336]LogViewport: Scene viewport resized to 409x409, mode Windowed.
+[2024.02.13-01.55.07:516][100]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.477 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.13-01.58.51:677][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.13-01.58.51:682][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.02.13-01.58.51:682][800]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-01.58.51:753][800]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-01.58.51:753][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-01.58.51:759][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto5
+[2024.02.13-01.58.51:760][800]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto580FF1AEA4FB6BB1AECAE4183B5B54E2A.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto5.uasset'
+[2024.02.13-01.58.51:760][800]LogFileHelpers: Auto-saving content packages took 0.078
+[2024.02.13-02.01.42:125][578]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-02.01.42:175][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.13-02.01.42:712][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset" SILENT=true
+[2024.02.13-02.01.42:720][625]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig
+[2024.02.13-02.01.42:720][625]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRigA1F29A764B02631D60558ABE4813DBFF.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
+[2024.02.13-02.01.42:750][625]AssetCheck: New page: Asset Save: SKM_Manny_CtrlRig
+[2024.02.13-02.01.42:750][625]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-02.01.46:674][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-02.01.46:761][885]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.13-02.01.46:766][885]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.13-02.01.46:766][885]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.02.13-02.01.46:780][885]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.02.13-02.01.46:780][885]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.02.13-02.01.46:780][885]LogWorldPartition: Display: GetPartitionedActors took 14 ms
+[2024.02.13-02.01.46:781][885]LogWorldPartition: Display: GenerateStreaming took 18 ms
+[2024.02.13-02.01.46:968][885]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.13-02.01.47:036][885]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2024.02.13-02.01.47:058][885]LogPlayLevel: [PlayLevel]   Compiling CR_Mannequin_BasicFootIK as a dependent...
+[2024.02.13-02.01.47:341][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.13-02.01.47:343][885]LogPlayLevel: PlayLevel: Blueprint regeneration took 375 ms (2 blueprints)
+[2024.02.13-02.01.47:366][885]PIE: New page: PIE session: ThirdPersonMap (2024年2月12日 下午4:01:47)
+[2024.02.13-02.01.47:524][885]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.02.13-02.01.47:525][885]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.13-02.01.47:542][885]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.13-02.01.47:611][885]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.02.13-02.01.47:619][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076671s)
+[2024.02.13-02.01.47:619][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.077016s)
+[2024.02.13-02.01.47:705][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-02.01.47:705][885]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.13-02.01.47:706][885]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.13-02.01.47:706][885]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2024.02.13-02.01.47:726][885]LogWorldPartition: Display: WorldPartition initialize took 19 ms
+[2024.02.13-02.01.47:734][885]LogPlayLevel: PIE: World Init took: (0.115594s)
+[2024.02.13-02.01.47:788][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.13-02.01.47:806][885]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-02.01.47:806][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.13-02.01.47:806][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-02.01.47:806][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-02.01.47:806][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-02.01.47:806][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-02.01.47:885][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-02.01.47:901][885]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G560 Gaming Speaker)
+[2024.02.13-02.01.47:902][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-02.01.47:902][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-02.01.47:902][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-02.01.47:903][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.13-02.01.47:903][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.02.13-02.01.47:905][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.13-02.01.47:905][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.13-02.01.47:905][885]LogInit: FAudioDevice initialized.
+[2024.02.13-02.01.47:933][885]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.02.13-02.01.48:059][885]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.13-02.01.48:066][885]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.12-21.01.48
+[2024.02.13-02.01.48:118][885]LogWorld: Bringing up level for play took: 0.059038
+[2024.02.13-02.01.48:229][885]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.02.13-02.01.48:919][885]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.02.13-02.01.48:919][885]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.02.13-02.01.49:003][885]PIE: Server logged in
+[2024.02.13-02.01.49:025][885]PIE: Play in editor total start time 2.322 seconds.
+[2024.02.13-02.01.55:746][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-02.01.55:746][483]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.13-02.01.55:746][483]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-02.01.55:746][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-02.01.55:881][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-02.01.55:940][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-02.01.56:049][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-02.01.56:202][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.13-02.01.56:206][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.13-02.01.56:489][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.13-02.01.56:533][484]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.02.13-02.02.21:318][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.02.13-02.02.21:352][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-02.02.27:376][634]LogViewport: Scene viewport resized to 1141x869, mode Windowed.
+[2024.02.13-02.02.28:665][752]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.13-02.04.58:550][320]LogEditorTransaction: Undo Deselect all nodes.
+[2024.02.13-02.04.58:755][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.05.30:111][968]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.05.30:262][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.07.32:760][830]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.07.32:916][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.08.03:789][190]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.08.03:942][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.08.27:629][302]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.08.27:783][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.08.28:334][320]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.08.28:487][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.08.35:280][978]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.08.35:433][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.09.38:779][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.02.13-02.09.38:782][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.252
+[2024.02.13-02.09.38:784][787]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-02.09.38:810][787]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-02.09.38:810][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-02.09.38:819][787]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto6
+[2024.02.13-02.09.38:819][787]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto65D85101349E059CFE8D12391D2322E0A.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto6.uasset'
+[2024.02.13-02.09.38:819][787]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.02.13-02.09.58:135][982]LogEditorTransaction: Undo Change Numeric Value
+[2024.02.13-02.09.58:298][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.10.00:997][252]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-02.10.01:062][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.13-02.10.08:211][944]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.10.08:360][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.10.27:686][ 28]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.10.27:832][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.13:960][271]LogViewport: Scene viewport resized to 416x409, mode Windowed.
+[2024.02.13-02.12.13:993][273]LogViewport: Scene viewport resized to 471x409, mode Windowed.
+[2024.02.13-02.12.14:026][275]LogViewport: Scene viewport resized to 554x409, mode Windowed.
+[2024.02.13-02.12.14:075][276]LogViewport: Scene viewport resized to 673x409, mode Windowed.
+[2024.02.13-02.12.14:097][277]LogViewport: Scene viewport resized to 713x409, mode Windowed.
+[2024.02.13-02.12.14:121][278]LogViewport: Scene viewport resized to 747x409, mode Windowed.
+[2024.02.13-02.12.14:152][280]LogViewport: Scene viewport resized to 786x409, mode Windowed.
+[2024.02.13-02.12.14:171][281]LogViewport: Scene viewport resized to 808x409, mode Windowed.
+[2024.02.13-02.12.14:193][282]LogViewport: Scene viewport resized to 822x409, mode Windowed.
+[2024.02.13-02.12.14:223][284]LogViewport: Scene viewport resized to 832x409, mode Windowed.
+[2024.02.13-02.12.14:482][312]LogViewport: Scene viewport resized to 837x409, mode Windowed.
+[2024.02.13-02.12.14:512][314]LogViewport: Scene viewport resized to 843x409, mode Windowed.
+[2024.02.13-02.12.14:537][315]LogViewport: Scene viewport resized to 852x409, mode Windowed.
+[2024.02.13-02.12.14:563][316]LogViewport: Scene viewport resized to 859x409, mode Windowed.
+[2024.02.13-02.12.14:584][317]LogViewport: Scene viewport resized to 861x409, mode Windowed.
+[2024.02.13-02.12.14:995][365]LogViewport: Scene viewport resized to 869x409, mode Windowed.
+[2024.02.13-02.12.15:025][367]LogViewport: Scene viewport resized to 878x409, mode Windowed.
+[2024.02.13-02.12.15:045][368]LogViewport: Scene viewport resized to 887x409, mode Windowed.
+[2024.02.13-02.12.15:073][370]LogViewport: Scene viewport resized to 903x409, mode Windowed.
+[2024.02.13-02.12.15:092][371]LogViewport: Scene viewport resized to 911x409, mode Windowed.
+[2024.02.13-02.12.15:662][438]LogViewport: Scene viewport resized to 909x409, mode Windowed.
+[2024.02.13-02.12.15:682][439]LogViewport: Scene viewport resized to 906x409, mode Windowed.
+[2024.02.13-02.12.15:710][441]LogViewport: Scene viewport resized to 905x409, mode Windowed.
+[2024.02.13-02.12.15:846][456]LogViewport: Scene viewport resized to 901x409, mode Windowed.
+[2024.02.13-02.12.15:885][459]LogViewport: Scene viewport resized to 899x409, mode Windowed.
+[2024.02.13-02.12.15:908][460]LogViewport: Scene viewport resized to 895x409, mode Windowed.
+[2024.02.13-02.12.15:936][462]LogViewport: Scene viewport resized to 893x409, mode Windowed.
+[2024.02.13-02.12.15:953][463]LogViewport: Scene viewport resized to 891x409, mode Windowed.
+[2024.02.13-02.12.15:989][466]LogViewport: Scene viewport resized to 888x409, mode Windowed.
+[2024.02.13-02.12.16:013][467]LogViewport: Scene viewport resized to 885x409, mode Windowed.
+[2024.02.13-02.12.16:032][468]LogViewport: Scene viewport resized to 879x409, mode Windowed.
+[2024.02.13-02.12.16:051][469]LogViewport: Scene viewport resized to 875x409, mode Windowed.
+[2024.02.13-02.12.16:071][470]LogViewport: Scene viewport resized to 867x409, mode Windowed.
+[2024.02.13-02.12.16:091][471]LogViewport: Scene viewport resized to 859x409, mode Windowed.
+[2024.02.13-02.12.16:112][472]LogViewport: Scene viewport resized to 850x409, mode Windowed.
+[2024.02.13-02.12.16:141][474]LogViewport: Scene viewport resized to 840x409, mode Windowed.
+[2024.02.13-02.12.16:170][476]LogViewport: Scene viewport resized to 827x409, mode Windowed.
+[2024.02.13-02.12.16:215][477]LogViewport: Scene viewport resized to 812x409, mode Windowed.
+[2024.02.13-02.12.16:237][478]LogViewport: Scene viewport resized to 802x409, mode Windowed.
+[2024.02.13-02.12.16:255][479]LogViewport: Scene viewport resized to 794x409, mode Windowed.
+[2024.02.13-02.12.16:275][480]LogViewport: Scene viewport resized to 782x409, mode Windowed.
+[2024.02.13-02.12.16:295][481]LogViewport: Scene viewport resized to 769x409, mode Windowed.
+[2024.02.13-02.12.16:313][482]LogViewport: Scene viewport resized to 755x409, mode Windowed.
+[2024.02.13-02.12.16:333][483]LogViewport: Scene viewport resized to 743x409, mode Windowed.
+[2024.02.13-02.12.16:353][484]LogViewport: Scene viewport resized to 728x409, mode Windowed.
+[2024.02.13-02.12.16:373][485]LogViewport: Scene viewport resized to 714x409, mode Windowed.
+[2024.02.13-02.12.16:394][486]LogViewport: Scene viewport resized to 696x409, mode Windowed.
+[2024.02.13-02.12.16:423][488]LogViewport: Scene viewport resized to 669x409, mode Windowed.
+[2024.02.13-02.12.16:455][490]LogViewport: Scene viewport resized to 644x409, mode Windowed.
+[2024.02.13-02.12.16:484][492]LogViewport: Scene viewport resized to 627x409, mode Windowed.
+[2024.02.13-02.12.16:516][494]LogViewport: Scene viewport resized to 607x409, mode Windowed.
+[2024.02.13-02.12.16:543][496]LogViewport: Scene viewport resized to 592x409, mode Windowed.
+[2024.02.13-02.12.16:568][497]LogViewport: Scene viewport resized to 582x409, mode Windowed.
+[2024.02.13-02.12.16:588][498]LogViewport: Scene viewport resized to 578x409, mode Windowed.
+[2024.02.13-02.12.16:615][500]LogViewport: Scene viewport resized to 570x409, mode Windowed.
+[2024.02.13-02.12.16:635][501]LogViewport: Scene viewport resized to 565x409, mode Windowed.
+[2024.02.13-02.12.16:654][502]LogViewport: Scene viewport resized to 556x409, mode Windowed.
+[2024.02.13-02.12.16:674][503]LogViewport: Scene viewport resized to 549x409, mode Windowed.
+[2024.02.13-02.12.16:694][504]LogViewport: Scene viewport resized to 540x409, mode Windowed.
+[2024.02.13-02.12.16:713][505]LogViewport: Scene viewport resized to 535x409, mode Windowed.
+[2024.02.13-02.12.16:733][506]LogViewport: Scene viewport resized to 525x409, mode Windowed.
+[2024.02.13-02.12.16:753][507]LogViewport: Scene viewport resized to 516x409, mode Windowed.
+[2024.02.13-02.12.16:773][508]LogViewport: Scene viewport resized to 503x409, mode Windowed.
+[2024.02.13-02.12.16:793][509]LogViewport: Scene viewport resized to 492x409, mode Windowed.
+[2024.02.13-02.12.16:814][510]LogViewport: Scene viewport resized to 480x409, mode Windowed.
+[2024.02.13-02.12.16:833][511]LogViewport: Scene viewport resized to 474x409, mode Windowed.
+[2024.02.13-02.12.16:854][512]LogViewport: Scene viewport resized to 467x409, mode Windowed.
+[2024.02.13-02.12.16:875][513]LogViewport: Scene viewport resized to 460x409, mode Windowed.
+[2024.02.13-02.12.16:895][514]LogViewport: Scene viewport resized to 451x409, mode Windowed.
+[2024.02.13-02.12.16:915][515]LogViewport: Scene viewport resized to 446x409, mode Windowed.
+[2024.02.13-02.12.16:935][516]LogViewport: Scene viewport resized to 440x409, mode Windowed.
+[2024.02.13-02.12.16:953][517]LogViewport: Scene viewport resized to 435x409, mode Windowed.
+[2024.02.13-02.12.16:973][518]LogViewport: Scene viewport resized to 428x409, mode Windowed.
+[2024.02.13-02.12.16:994][519]LogViewport: Scene viewport resized to 424x409, mode Windowed.
+[2024.02.13-02.12.17:013][520]LogViewport: Scene viewport resized to 418x409, mode Windowed.
+[2024.02.13-02.12.17:032][521]LogViewport: Scene viewport resized to 411x409, mode Windowed.
+[2024.02.13-02.12.17:053][522]LogViewport: Scene viewport resized to 402x409, mode Windowed.
+[2024.02.13-02.12.17:075][523]LogViewport: Scene viewport resized to 395x409, mode Windowed.
+[2024.02.13-02.12.17:096][524]LogViewport: Scene viewport resized to 389x409, mode Windowed.
+[2024.02.13-02.12.17:115][525]LogViewport: Scene viewport resized to 386x409, mode Windowed.
+[2024.02.13-02.12.17:135][526]LogViewport: Scene viewport resized to 381x409, mode Windowed.
+[2024.02.13-02.12.17:156][527]LogViewport: Scene viewport resized to 378x409, mode Windowed.
+[2024.02.13-02.12.17:179][528]LogViewport: Scene viewport resized to 373x409, mode Windowed.
+[2024.02.13-02.12.17:211][530]LogViewport: Scene viewport resized to 372x409, mode Windowed.
+[2024.02.13-02.12.17:235][531]LogViewport: Scene viewport resized to 370x409, mode Windowed.
+[2024.02.13-02.12.17:296][537]LogViewport: Scene viewport resized to 368x409, mode Windowed.
+[2024.02.13-02.12.17:381][546]LogViewport: Scene viewport resized to 366x409, mode Windowed.
+[2024.02.13-02.12.17:568][567]LogViewport: Scene viewport resized to 362x409, mode Windowed.
+[2024.02.13-02.12.17:615][569]LogViewport: Scene viewport resized to 360x409, mode Windowed.
+[2024.02.13-02.12.17:638][570]LogViewport: Scene viewport resized to 358x409, mode Windowed.
+[2024.02.13-02.12.17:666][572]LogViewport: Scene viewport resized to 356x409, mode Windowed.
+[2024.02.13-02.12.17:689][573]LogViewport: Scene viewport resized to 355x409, mode Windowed.
+[2024.02.13-02.12.17:733][577]LogViewport: Scene viewport resized to 351x409, mode Windowed.
+[2024.02.13-02.12.17:764][579]LogViewport: Scene viewport resized to 349x409, mode Windowed.
+[2024.02.13-02.12.48:002][641]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.12.48:186][641]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.48:740][655]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.12.48:893][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.49:340][672]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.12.49:493][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.50:434][732]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.12.50:588][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.52:646][885]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.12.52:800][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.53:390][928]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.12.53:541][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.54:072][966]LogEditorTransaction: Undo Add Link
+[2024.02.13-02.12.54:222][966]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.55:038][ 19]LogEditorTransaction: Undo Break All Links
+[2024.02.13-02.12.55:189][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.12.55:788][ 58]LogEditorTransaction: Undo Add Link
+[2024.02.13-02.12.55:940][ 58]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.13.11:688][500]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.13.11:842][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.13.16:048][828]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.13.16:202][828]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.13.20:670][158]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.13.20:821][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.13.34:466][296]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-02.13.34:617][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.15.14:591][552]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.15.14:740][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.15.21:288][161]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.15.21:439][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.19.59:008][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.02.13-02.19.59:012][883]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.093
+[2024.02.13-02.19.59:013][883]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-02.19.59:030][883]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-02.19.59:030][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-02.19.59:051][883]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto7
+[2024.02.13-02.19.59:051][883]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto791A0EDD0495AC71C184D83A4632714D6.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto7.uasset'
+[2024.02.13-02.19.59:051][883]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.02.13-02.44.37:565][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.02.13-02.44.37:573][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.066
+[2024.02.13-02.44.37:573][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-02.44.37:573][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-02.44.37:605][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto8
+[2024.02.13-02.44.37:605][876]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto8AC11B3D24C0622E5C1C75387804B2247.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto8.uasset'
+[2024.02.13-02.44.37:605][876]LogFileHelpers: Auto-saving content packages took 0.032
+[2024.02.13-02.46.00:466][960]LogEditorTransaction: Undo Move Control
+[2024.02.13-02.46.00:634][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-02.55.09:373][239]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.366 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.13-02.55.59:758][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.02.13-02.55.59:765][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2024.02.13-02.55.59:765][723]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-02.55.59:765][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-02.55.59:810][723]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto9
+[2024.02.13-02.55.59:811][723]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto97563E540411C2187B23B58A0410A27B8.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto9.uasset'
+[2024.02.13-02.55.59:811][723]LogFileHelpers: Auto-saving content packages took 0.046
+[2024.02.13-02.59.10:781][701]LogCustomDialog: Dialog displayed:
+[2024.02.13-02.59.31:734][701]LogSlate: Window 'Mirror Graph' being destroyed
+[2024.02.13-02.59.58:090][956]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-02.59.58:188][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.02.13-02.59.59:016][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset" SILENT=true
+[2024.02.13-02.59.59:064][ 13]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig
+[2024.02.13-02.59.59:064][ 13]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig8758C2944BED54B695259B8A39400F49.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
+[2024.02.13-02.59.59:089][ 13]AssetCheck: New page: Asset Save: SKM_Manny_CtrlRig
+[2024.02.13-02.59.59:089][ 13]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
