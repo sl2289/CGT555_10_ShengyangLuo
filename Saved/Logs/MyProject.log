@@ -1354,3 +1354,167 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.12-21.22.25:794][789]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig242E0C2E43EFCC4F6CAA1AB5BC6C5A83.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
 [2024.02.12-21.22.25:832][789]AssetCheck: New page: Asset Save: SKM_Manny_CtrlRig
 [2024.02.12-21.22.25:832][789]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.12-21.26.48:458][959]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.12-21.26.48:504][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.12-21.27.14:421][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.12-21.27.14:424][166]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2024.02.12-21.27.14:424][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.12-21.27.14:437][166]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.12-21.27.14:437][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.12-21.27.14:442][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto8
+[2024.02.12-21.27.14:442][166]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto841F4F0B44C5485EBF69513B3E3325674.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto8.uasset'
+[2024.02.12-21.27.14:442][166]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.02.12-21.27.27:259][509]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag & Drop entirely.
+[2024.02.12-21.27.27:260][509]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.12-21.27.27:304][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.02.12-21.36.33:807][365]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.12-21.36.33:855][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.12-21.36.41:325][917]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.12-21.36.41:370][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.12-21.37.52:951][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.12-21.37.52:955][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2024.02.12-21.37.52:955][968]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.12-21.37.52:969][968]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.12-21.37.52:969][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.12-21.37.52:974][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto9
+[2024.02.12-21.37.52:974][968]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto950903B894887ACD476EBD8B229B60A95.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto9.uasset'
+[2024.02.12-21.37.52:974][968]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.02.12-21.55.07:337][ 83]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.384 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.12-22.55.07:327][ 11]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.372 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.12-23.55.07:332][992]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.381 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.13-00.47.32:562][176]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.47.32:609][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.02.13-00.48.07:354][792]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.48.07:400][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.13-00.50.22:965][103]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.50.23:011][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-00.51.48:751][308]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.51.48:799][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.13-00.53.20:247][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.13-00.53.20:252][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2024.02.13-00.53.20:252][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-00.53.20:317][558]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-00.53.20:317][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-00.53.20:322][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto0
+[2024.02.13-00.53.20:322][558]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto009832DEE489FD562CE9FED938CF3F62F.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto0.uasset'
+[2024.02.13-00.53.20:322][558]LogFileHelpers: Auto-saving content packages took 0.071
+[2024.02.13-00.54.08:965][953]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.54.09:010][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.13-00.54.17:205][373]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.54.17:251][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.13-00.54.18:865][543]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.54.18:909][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.13-00.54.22:887][ 13]LogEditorTransaction: Undo Drag & Drop
+[2024.02.13-00.54.23:047][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-00.54.25:240][219]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.54.25:288][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.13-00.55.07:308][ 34]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.355 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.13-00.56.04:444][971]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.56.04:491][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.13-00.56.27:370][639]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.56.27:415][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.13-00.56.53:528][438]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.56.53:573][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-00.57.10:787][995]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.57.10:833][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.13-00.57.51:842][810]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.13-00.58.58:804][631]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.58.58:853][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.02.13-00.59.21:415][ 24]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.13-00.59.21:567][ 24]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-00.59.39:077][708]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-00.59.39:123][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.13-01.00.51:197][414]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.00.51:246][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.13-01.01.21:343][345]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.01.21:394][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.13-01.01.43:032][615]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.01.43:077][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.13-01.01.58:294][343]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.01.58:341][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.13-01.02.17:845][595]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.02.17:891][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-01.02.40:262][191]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.02.40:308][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.02.13-01.02.59:647][423]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.02.59:694][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.13-01.04.48:965][571]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.04.49:012][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.02.13-01.04.51:189][824]LogEditorTransaction: Undo Drag & Drop
+[2024.02.13-01.04.51:341][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-01.06.10:876][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.13-01.06.10:882][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2024.02.13-01.06.10:882][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-01.06.10:900][811]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-01.06.10:900][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-01.06.10:904][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto1
+[2024.02.13-01.06.10:904][811]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto1D8342B424F6229DE5D8E709BB519591F.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto1.uasset'
+[2024.02.13-01.06.10:905][811]LogFileHelpers: Auto-saving content packages took 0.023
+[2024.02.13-01.06.16:260][446]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.06.16:307][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.13-01.16.07:847][882]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.16.07:902][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.13-01.16.08:480][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.02.13-01.16.08:483][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2024.02.13-01.16.08:483][931]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-01.16.08:498][931]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-01.16.08:498][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-01.16.08:503][931]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto2
+[2024.02.13-01.16.08:503][931]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto264956E9D455E85985314B38EE6569464.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto2.uasset'
+[2024.02.13-01.16.08:505][931]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.02.13-01.26.08:587][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.02.13-01.26.08:590][715]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2024.02.13-01.26.08:590][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-01.26.08:590][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-01.26.08:595][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto3
+[2024.02.13-01.26.08:595][715]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto3F6CD962A44173AF1998731AF917563DD.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto3.uasset'
+[2024.02.13-01.26.08:596][715]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.02.13-01.47.56:777][514]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag & Drop entirely.
+[2024.02.13-01.47.56:778][514]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.47.56:826][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.13-01.47.58:360][684]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag & Drop entirely.
+[2024.02.13-01.47.58:361][684]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.47.58:408][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.02.13-01.48.08:935][920]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.48.08:985][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.13-01.48.12:911][362]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.48.12:960][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.13-01.48.18:328][717]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.48.18:375][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.13-01.48.51:379][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.13-01.48.51:383][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2024.02.13-01.48.51:383][638]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-01.48.51:399][638]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig]
+[2024.02.13-01.48.51:399][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-01.48.51:404][638]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto4
+[2024.02.13-01.48.51:404][638]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto44EA672754AE882D8AF1D89A65407D72C.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto4.uasset'
+[2024.02.13-01.48.51:404][638]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.02.13-01.49.05:454][272]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.49.05:501][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.13-01.49.22:896][165]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.49.22:943][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.13-01.50.11:150][711]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag & Drop entirely.
+[2024.02.13-01.50.11:154][711]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.50.11:201][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.13-01.50.13:708][998]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag & Drop entirely.
+[2024.02.13-01.50.13:712][998]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.50.13:759][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.13-01.50.16:165][261]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag & Drop entirely.
+[2024.02.13-01.50.16:166][261]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.50.16:212][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.13-01.50.25:771][376]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.50.25:816][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-01.51.11:253][364]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.51.11:299][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.13-01.51.44:416][592]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.51.44:464][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.13-01.51.46:816][852]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.51.46:862][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.13-01.52.01:262][542]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.52.01:307][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.13-01.52.07:464][803]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.52.07:511][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.13-01.52.31:588][652]LogEditorTransaction: Undo Rename Hierarchy Element
+[2024.02.13-01.52.31:746][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-01.52.50:085][800]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-01.52.50:132][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
