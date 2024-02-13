@@ -1818,3 +1818,1078 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.13-02.59.59:064][ 13]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig8758C2944BED54B695259B8A39400F49.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
 [2024.02.13-02.59.59:089][ 13]AssetCheck: New page: Asset Save: SKM_Manny_CtrlRig
 [2024.02.13-02.59.59:089][ 13]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.03.22:040][168]LogEditorTransaction: Undo Move Nodes
+[2024.02.13-03.03.22:211][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.03.22:935][209]LogEditorTransaction: Undo Selected node 'RigUnit_GetTransform_11_2'.
+[2024.02.13-03.03.23:088][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.03.23:950][291]LogEditorTransaction: Undo Move Nodes
+[2024.02.13-03.03.24:101][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.03.24:603][337]LogEditorTransaction: Undo Deselect all nodes.
+[2024.02.13-03.03.24:757][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.03.25:235][382]LogEditorTransaction: Undo Pasted Nodes.
+[2024.02.13-03.03.25:423][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.06.28:403][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.13-03.06.28:408][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.060
+[2024.02.13-03.06.28:408][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig] ([2] browsable assets)...
+[2024.02.13-03.06.28:408][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig]
+[2024.02.13-03.06.28:469][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto0
+[2024.02.13-03.06.28:469][ 74]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Auto0DA05AC0B43DBA0B6FC11DAB92998F6ED.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig_Auto0.uasset'
+[2024.02.13-03.06.28:470][ 74]LogFileHelpers: Auto-saving content packages took 0.062
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.07.04:999][236]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.09.24:431][150]LogControlRig: Warning: Instruction[39] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:897][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:897][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.31:898][669]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.36:943][ 62]LogControlRig: Warning: Instruction[21] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.48:758][934]LogControlRig: Warning: Instruction[13] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:520][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:520][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:520][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:520][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:520][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.51:521][118]LogControlRig: Warning: Instruction[15] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.10.53:612][250]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:213][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.04:215][304]LogControlRig: Warning: Instruction[23] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.20:957][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.20:958][  8]LogControlRig: Warning: Instruction[27] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:450][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.23:451][187]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.24:872][279]BlueprintLog: New page: Compile SKM_Manny_CtrlRig
+[2024.02.13-03.11.24:963][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:006][279]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.11.25:629][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset" SILENT=true
+[2024.02.13-03.11.25:675][311]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig
+[2024.02.13-03.11.25:675][311]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig9F50F84C48271D1474EF54A3DAED5728.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
+[2024.02.13-03.11.25:699][311]AssetCheck: New page: Asset Save: SKM_Manny_CtrlRig
+[2024.02.13-03.11.25:699][311]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.13.06:918][920]LogSlate: Window 'Save Asset As' being destroyed
+[2024.02.13-03.13.55:645][303]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.13.55:646][303]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.13.55:660][303]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.02.13-03.13.55:683][303]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.02.13-03.13.56:487][391]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.13.56:487][391]LogActorFactory: Actor Factory attempting to spawn ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.13.56:503][391]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467B7D801_1443398463
+[2024.02.13-03.13.56:533][391]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/SKM_Manny_CtrlRig_Take1.SKM_Manny_CtrlRig_Take1
+[2024.02.13-03.13.56:533][391]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/SKM_Manny_CtrlRig_Take1.SKM_Manny_CtrlRig_Take1
+[2024.02.13-03.13.56:593][391]LogActorFactory: Actor Factory spawned LevelSequence /Game/SKM_Manny_CtrlRig_Take1.SKM_Manny_CtrlRig_Take1 as actor: LevelSequenceActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelSequenceActor_UAID_A4BB6D4E6467B7D801_1443443464
+[2024.02.13-03.13.56:593][391]LogActorFactory: Actor Factory spawned LevelSequence /Game/SKM_Manny_CtrlRig_Take1.SKM_Manny_CtrlRig_Take1 as actor: LevelSequenceActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelSequenceActor_UAID_A4BB6D4E6467B7D801_1443443464
+[2024.02.13-03.13.56:640][391]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/SKM_Manny_CtrlRig_Take1.SKM_Manny_CtrlRig_Take1
+[2024.02.13-03.13.57:781][391]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.02.13-03.13.57:781][391]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.02.13-03.13.58:329][391]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467B7D801_1443398463
+[2024.02.13-03.13.59:314][391]LogViewport: Scene viewport resized to 1170x580, mode Windowed.
+[2024.02.13-03.14.09:394][831]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.13-03.14.10:214][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.13-03.16.29:024][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.02.13-03.16.29:207][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZR/G4E3JM4848PUH1WGPJBIQU_Auto1
+[2024.02.13-03.16.29:207][229]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/G4E3JM4848PUH1WGPJBIQU_Auto1840E5FD3411C199DE8D570B4F7F0EA91.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZR/G4E3JM4848PUH1WGPJBIQU_Auto1.uasset'
+[2024.02.13-03.16.29:213][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/NWN1ZAPP5WMA4SWOP8BB5V_Auto1
+[2024.02.13-03.16.29:213][229]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/NWN1ZAPP5WMA4SWOP8BB5V_Auto130932B7F4BF4D94AF46F71B4B6C8AE6A.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/NWN1ZAPP5WMA4SWOP8BB5V_Auto1.uasset'
+[2024.02.13-03.16.29:248][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.348
+[2024.02.13-03.16.29:248][229]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.348
+[2024.02.13-03.16.29:248][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SKM_Manny_CtrlRig_Take1] ([1] browsable assets)...
+[2024.02.13-03.16.29:248][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/SKM_Manny_CtrlRig_Take1]
+[2024.02.13-03.16.29:248][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SKM_Manny_CtrlRig_Take1" FILE="../../../../UE_Animation/MyProject/Saved/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.13-03.16.29:268][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto1
+[2024.02.13-03.16.29:268][229]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Take1_Auto10C2E12FD459FF23B9C8F669438AA970B.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto1.uasset'
+[2024.02.13-03.16.29:269][229]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.02.13-03.19.49:246][ 30]Cmd: TRANSACTION UNDO
+[2024.02.13-03.19.49:259][ 30]LogEditorTransaction: Undo Move Control
+[2024.02.13-03.19.49:428][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.24.54:277][483]Cmd: TRANSACTION UNDO
+[2024.02.13-03.24.54:278][483]LogEditorTransaction: Undo Move Control
+[2024.02.13-03.24.54:441][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.24.57:624][796]Cmd: TRANSACTION UNDO
+[2024.02.13-03.24.57:624][796]LogEditorTransaction: Undo Move Control
+[2024.02.13-03.24.57:770][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.30.06:577][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.02.13-03.30.06:585][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.124
+[2024.02.13-03.30.06:585][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SKM_Manny_CtrlRig_Take1] ([1] browsable assets)...
+[2024.02.13-03.30.06:585][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/SKM_Manny_CtrlRig_Take1]
+[2024.02.13-03.30.06:585][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SKM_Manny_CtrlRig_Take1" FILE="../../../../UE_Animation/MyProject/Saved/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.13-03.30.06:590][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto2
+[2024.02.13-03.30.06:590][195]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Take1_Auto2933BA7F844EAB016527AF9B2AC407439.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto2.uasset'
+[2024.02.13-03.30.06:590][195]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.02.13-03.34.14:918][890]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.13-03.34.35:544][426]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.02.13-03.35.05:051][426]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2024.02.13-03.35.05:389][426]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Animations/hehe_wave.hehe_wave
+[2024.02.13-03.35.14:534][739]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/hehe_wave.hehe_wave
+[2024.02.13-03.35.14:601][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.35.14:612][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.35.14:747][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.35.15:172][739]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.13-03.35.15:197][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.35.15:312][739]LogViewport: Scene viewport resized to 1059x534, mode Windowed.
+[2024.02.13-03.35.15:475][739]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.13-03.35.16:195][775]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.02.13-03.36.07:276][496]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.02.13-03.36.09:427][496]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2024.02.13-03.36.11:488][644]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/hehe_wave_link.hehe_wave_link
+[2024.02.13-03.36.11:512][644]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.13-03.36.11:518][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.36.11:558][644]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-03.36.11:558][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-03.38.08:529][771]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.13-03.38.08:555][771]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.13-03.38.08:561][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.38.08:716][771]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-03.38.08:716][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-03.38.38:376][946]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.02.13-03.38.38:396][946]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.13-03.38.38:402][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.38.38:445][946]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-03.38.38:445][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-03.38.58:156][728]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.13-03.38.58:177][728]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.13-03.38.58:183][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.38.58:226][728]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-03.38.58:226][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-03.39.08:268][537]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.13-03.39.08:268][537]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.13-03.39.08:268][537]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2024.02.13-03.39.08:269][537]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2024.02.13-03.39.09:003][601]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.13-03.39.09:003][601]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.13-03.39.09:004][601]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467B8D801_1882171641
+[2024.02.13-03.39.09:005][601]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467B8D801_1882171641
+[2024.02.13-03.39.29:649][845]Cmd: DELETE
+[2024.02.13-03.39.29:649][845]Cmd: ACTOR DELETE
+[2024.02.13-03.39.30:229][845]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.02.13-03.39.30:330][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.13-03.39.30:336][845]LogEditorActor: Deleted 1 Actors (0.287 secs)
+[2024.02.13-03.41.07:945][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.13-03.41.07:949][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2024.02.13-03.41.07:950][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SKM_Manny_CtrlRig_Take1] ([1] browsable assets)...
+[2024.02.13-03.41.07:950][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/SKM_Manny_CtrlRig_Take1]
+[2024.02.13-03.41.07:950][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SKM_Manny_CtrlRig_Take1" FILE="../../../../UE_Animation/MyProject/Saved/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.02.13-03.41.07:955][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto3
+[2024.02.13-03.41.07:955][358]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Take1_Auto30FDD88C34EF3E606DF52E0890DE673FD.tmp' to '../../../../UE_Animation/MyProject/Saved/Autosaves/Game/SKM_Manny_CtrlRig_Take1_Auto3.uasset'
+[2024.02.13-03.41.07:984][358]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.02.13-03.41.33:983][438]Cmd: TRANSACTION UNDO
+[2024.02.13-03.41.33:983][438]LogEditorTransaction: Undo Select None
+[2024.02.13-03.41.34:290][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.34:293][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.34:563][443]Cmd: TRANSACTION UNDO
+[2024.02.13-03.41.34:563][443]LogEditorTransaction: Undo Select Actors/Components
+[2024.02.13-03.41.34:783][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.34:786][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.35:351][485]Cmd: TRANSACTION UNDO
+[2024.02.13-03.41.35:351][485]LogEditorTransaction: Undo Add Animation
+[2024.02.13-03.41.35:580][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.35:583][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.36:052][520]Cmd: TRANSACTION UNDO
+[2024.02.13-03.41.36:052][520]LogEditorTransaction: Undo Add Animation
+[2024.02.13-03.41.36:272][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.36:276][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.36:650][547]Cmd: TRANSACTION UNDO
+[2024.02.13-03.41.36:650][547]LogEditorTransaction: Undo Add Animation
+[2024.02.13-03.41.36:895][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.36:899][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.13-03.41.59:644][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Display: GetPartitionedActors took 46 us
+[2024.02.13-03.41.59:652][498]LogWorldPartition: Display: GenerateStreaming took 283 us
+[2024.02.13-03.41.59:652][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-03.41.59:652][498]PIE: New page: PIE session: ThirdPersonMap (2024年2月12日 下午5:41:59)
+[2024.02.13-03.41.59:686][498]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.13-03.41.59:691][498]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.02.13-03.41.59:691][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004034s)
+[2024.02.13-03.41.59:691][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004101s)
+[2024.02.13-03.41.59:691][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-03.41.59:691][498]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.13-03.41.59:691][498]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.13-03.41.59:692][498]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2024.02.13-03.41.59:692][498]LogWorldPartition: Display: WorldPartition initialize took 833 us
+[2024.02.13-03.41.59:692][498]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2024.02.13-03.41.59:736][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.13-03.41.59:737][498]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-03.41.59:737][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.13-03.41.59:737][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-03.41.59:738][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-03.41.59:738][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-03.41.59:738][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-03.41.59:739][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-03.41.59:755][498]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G560 Gaming Speaker)
+[2024.02.13-03.41.59:755][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-03.41.59:755][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-03.41.59:755][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-03.41.59:756][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.13-03.41.59:756][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.02.13-03.41.59:757][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.13-03.41.59:757][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.13-03.41.59:757][498]LogInit: FAudioDevice initialized.
+[2024.02.13-03.41.59:757][498]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.02.13-03.41.59:772][498]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.13-03.41.59:776][498]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.12-22.41.59
+[2024.02.13-03.41.59:777][498]LogWorld: Bringing up level for play took: 0.004547
+[2024.02.13-03.41.59:779][498]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.02.13-03.41.59:782][498]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.02.13-03.41.59:782][498]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.02.13-03.41.59:783][498]PIE: Server logged in
+[2024.02.13-03.41.59:783][498]PIE: Play in editor total start time 0.134 seconds.
+[2024.02.13-03.42.09:847][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-03.42.09:847][684]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.13-03.42.09:847][684]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-03.42.09:848][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-03.42.09:857][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-03.42.09:867][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-03.42.09:908][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-03.42.09:908][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.13-03.42.09:910][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.13-03.42.09:912][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-03.42.09:941][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.13-03.42.09:965][685]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.15:806][255]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:109][512]LogScript: Error: Script Msg: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig : Rig Graph can only contain one single Forwards Solve node.
+[2024.02.13-03.43.56:132][512]LogScript: Error: Script Msg: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig : Cannot import link 'RigUnit_BeginExecution_1.ExecuteContext -> SequenceExecution_1.ExecuteContext'.
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:274][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.43.56:275][515]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:775][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.34:776][643]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.36:759][853]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.41:144][320]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.42:809][483]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.44:646][651]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:351][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.46:352][812]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.50:266][208]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.53:666][553]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.56:401][836]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.44.58:359][ 36]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_l_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_inner_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'wrist_outer_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:096][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_metacarpal_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'weapon_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_02_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_02_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_02_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_02_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_02_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'thumb_03_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'pinky_03_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'ring_03_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'middle_03_r_ctrl' is not valid.'
+[2024.02.13-03.46.54:097][ 65]LogControlRig: Warning: Instruction[31] 'FRigUnit_GetControlTransform::Execute': 'Control 'index_03_r_ctrl' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[40] 'FRigUnit_GetTransform::Execute': 'Item 'Bone(RootControl)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[41] 'FRigUnit_SetTransform::Execute': 'Item 'Control(root)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[42] 'FRigUnit_GetTransform::Execute': 'Item 'Bone(ball_r_ctrl)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[43] 'FRigUnit_SetTransform::Execute': 'Item 'Control(ball_r)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[44] 'FRigUnit_GetTransform::Execute': 'Item 'Bone(ball_l_ctrl)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[45] 'FRigUnit_SetTransform::Execute': 'Item 'Control(ball_l)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[46] 'FRigUnit_GetTransform::Execute': 'Item 'Bone(calf_knee_r_ctrl)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[47] 'FRigUnit_SetTransform::Execute': 'Item 'Control(calf_knee_r)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[48] 'FRigUnit_GetTransform::Execute': 'Item 'Bone(calf_knee_l_ctrl)' is not valid.'
+[2024.02.13-03.46.56:749][284]LogControlRig: Warning: Instruction[49] 'FRigUnit_SetTransform::Execute': 'Item 'Control(calf_knee_l)' is not valid.'
+[2024.02.13-03.49.15:248][609]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467B8D801_1882171641 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DP/GXPX4N8PVYHJFJ9H6AUEQS.PackageMetaData in its package
+[2024.02.13-03.49.15:284][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.02.13-03.49.15:338][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.13-03.49.15:381][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.13-03.49.15:385][609]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZR/G4E3JM4848PUH1WGPJBIQU
+[2024.02.13-03.49.15:385][609]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/G4E3JM4848PUH1WGPJBIQUE198A7B24B97C4B81E2812AAAC9CDFF0.tmp' to '../../../../UE_Animation/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZR/G4E3JM4848PUH1WGPJBIQU.uasset'
+[2024.02.13-03.49.15:386][609]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/NWN1ZAPP5WMA4SWOP8BB5V
+[2024.02.13-03.49.15:386][609]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/NWN1ZAPP5WMA4SWOP8BB5VFF7A901649709A90A0B2FD9B6DEE1215.tmp' to '../../../../UE_Animation/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/NWN1ZAPP5WMA4SWOP8BB5V.uasset'
+[2024.02.13-03.49.15:428][609]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-03.49.15:428][609]LogContentValidation: Display: Validating LevelSequenceActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelSequenceActor_UAID_A4BB6D4E6467B7D801_1443443464
+[2024.02.13-03.49.15:428][609]LogContentValidation: Display: Validating SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_A4BB6D4E6467B7D801_1443398463
+[2024.02.13-03.49.15:473][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.13-03.49.20:460][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.13-03.49.20:541][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Rigs/CR_Mannequin_Body" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset" SILENT=true
+[2024.02.13-03.49.21:587][120]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body
+[2024.02.13-03.49.21:588][120]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/CR_Mannequin_Body1A0FF6F447A237F768AFB28AD56869F7.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset'
+[2024.02.13-03.49.21:591][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset" SILENT=true
+[2024.02.13-03.49.21:650][120]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig
+[2024.02.13-03.49.21:650][120]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRigB713FC9A491CC96F801F06B561FF63E5.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.uasset'
+[2024.02.13-03.49.21:651][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SKM_Manny_CtrlRig_Take1" FILE="../../../../UE_Animation/MyProject/Content/SKM_Manny_CtrlRig_Take1.uasset" SILENT=true
+[2024.02.13-03.49.21:656][120]LogSavePackage: Moving output files for package: /Game/SKM_Manny_CtrlRig_Take1
+[2024.02.13-03.49.21:656][120]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/SKM_Manny_CtrlRig_Take19495CAE04D22DBB8CFDC9FAAFDCE9D68.tmp' to '../../../../UE_Animation/MyProject/Content/SKM_Manny_CtrlRig_Take1.uasset'
+[2024.02.13-03.49.21:665][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Animations/hehe_wave" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Animations/hehe_wave.uasset" SILENT=true
+[2024.02.13-03.49.21:727][120]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/hehe_wave
+[2024.02.13-03.49.21:727][120]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/hehe_wave6AC6CCA641F93EE177E1F49C274E03FE.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Animations/hehe_wave.uasset'
+[2024.02.13-03.49.21:737][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Animations/hehe_wave_link" FILE="../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Animations/hehe_wave_link.uasset" SILENT=true
+[2024.02.13-03.49.21:801][120]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/hehe_wave_link
+[2024.02.13-03.49.21:801][120]LogSavePackage: Moving '../../../../UE_Animation/MyProject/Saved/hehe_wave_link30F07B9B4BB56533EC3AE6A0D972C88A.tmp' to '../../../../UE_Animation/MyProject/Content/Characters/Mannequins/Animations/hehe_wave_link.uasset'
+[2024.02.13-03.49.21:856][120]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-03.49.21:856][120]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body
+[2024.02.13-03.49.21:856][120]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequins/Meshes/SKM_Manny_CtrlRig.SKM_Manny_CtrlRig
+[2024.02.13-03.49.21:856][120]LogContentValidation: Display: Validating LevelSequence /Game/SKM_Manny_CtrlRig_Take1.SKM_Manny_CtrlRig_Take1
+[2024.02.13-03.49.21:856][120]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/hehe_wave_link.hehe_wave_link
+[2024.02.13-03.49.21:856][120]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/hehe_wave.hehe_wave
